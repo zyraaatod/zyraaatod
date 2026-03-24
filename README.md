@@ -21,12 +21,6 @@ I am a passionate technologist dedicated to building secure, scalable, and effic
 - **LinkedIn:** [Coming Soon]
 
 ---
-
-### ⚡ Latest Projects
-- **[AUROUS-X](https://github.com/zyraaatod/All):** Ultra-Turbo Web Penetration Framework.
-- **[Neural Hub](https://github.com/zyraaatod/zyraaatod):** Personal profile and research repository.
-
----
 <p align="center">
   <i>"Simplicity is the ultimate sophistication. Code is the law."</i>
 </p>
