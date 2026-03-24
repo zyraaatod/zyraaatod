@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/render?type=thicker&color=00FFFF&height=300&section=header&text=ZYRAAATOD&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=51&descSize=20" width="100%" />
 </p>
 
-## 🚀 System Status: ONLINE
+## 🚀 System Status: ONLINE [STABLE]
 ---
 <p align="center">
   <a href="https://github.com/zyraaatod">
